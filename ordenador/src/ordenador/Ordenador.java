@@ -11,11 +11,14 @@ public class Ordenador {
 	 * se informa el modelo del ordenador
 	 * variable almacena el precio total del ordenador
 	 * variable que almacena el tamaño de la memoria
+	 * variable para almacenar donde se encuentra el equipo
 	 */
 	
 	public String modelo;
 	public double precio;
 	public int memoria;
+	
+	public String ubicacionAula;
 	
 	/**
 	 * constructor vacio de la clase ordenador
