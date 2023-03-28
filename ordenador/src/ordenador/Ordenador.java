@@ -18,7 +18,7 @@ public class Ordenador {
 	public int memoria;
 	
 	
-	
+	//añado comentario
 	
 	public Ordenador() {
 		
